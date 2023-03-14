@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Springstone
+- 👋 Hi, I’m @Springstone aka Sacha Narinx
 - 👀 I’m interested in everything Azure
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on any projects that help customers
